@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "ploy",
+      "lname": "chatput",
+      "email": "ploy@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0925043271",
+      "address": "48/8 m.3 "
+    },
+    {
+      "id": "2",
+      "fname": "aiko",
+      "lname": "plooh",
+      "email": "aiko@mail.com",
+      "password": "87654321",
+      "password_confirmation": "87654321",
+      "phone": "09993115266",
+      "address": "44/41 m.8"
+    }
+  ],
+  "wonders": [
+    {
+      "id": "1",
+      "name": "Giza Pyramids",
+      "location": "Giza Necropolis, Egypt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Great Wall of China",
+      "location": "China",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Petra",
+      "location": "Ma'an, Jordan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rome_Colosseum_exterior_panorama.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chichén Itzá",
+      "location": "Yucatán, Mexico",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chichen-Itza-Castillo-Seen-From-East.JPG"
+    },
+    {
+      "id": "6",
+      "name": "Machu Picchu",
+      "location": "Cuzco Region, Peru",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
+    }
+  ]
+}
